@@ -19,7 +19,7 @@ Legendary: Requires 15000 ENB to level up and you earn 15 ENB per day
 
 5 free invites to each person, and it refreshes each day, you earn 3 enb when someone uses your link
 
-then learderboard system with points and tasks to meetup with and climb the leaderboard.
+
 
 Feature #2
 
@@ -76,3 +76,7 @@ ADD what what you do for base or how you are connected with base in your bio - +
 Feature 5: 
 
 Allow enb fams to be able to claim their basename with enb tokens but on the backend it will be swaped for base eth.
+
+Feature 6;
+
+Leaderboard system to show users and also their tag, either based , superbased or legendary, and also ther top earn based on yieds claimed.
