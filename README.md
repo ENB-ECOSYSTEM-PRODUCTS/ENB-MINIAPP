@@ -44,6 +44,9 @@ Daily check-in
 Post streak
 7days post streak - +1.0x
 
+Follow enb account on twitter - +1.0x
+
+
 
 
 - superbased boosters
@@ -61,7 +64,7 @@ Hold 5000 or more ENB tokens
 
 - legendary boosters
  
-Claim your basenames - +10.0x ( take note that if you have a basename in your farcaster wallet, it will check it and you claim your booster, but if you dont have then it prompts you top get one easily from the miniapp.) also once they claim it, they should have a claimable badge of base intern, like an sbt
+Claim your basenames - +10.0x ( take note that if you have a basename in your farcaster wallet, it will check it and you claim your booster, but if you dont have then it prompts you top get one easily from the miniapp.) also once they claim it, they should have a claimable badge of base intern, like an sbt and will be easily sharable on x and on farcaster, the link should direct people to the miniapp on the coinbase wallet back.
 
 Add this miniapp - +20.0x and extra 10enb added for your yield per day.
 
